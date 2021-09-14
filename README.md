@@ -24,6 +24,10 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## Assignment 2
 
+### Debt as % of GDP
+
+<iframe src="https://data.oecd.org/chart/6sEi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sEi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+
 ## Final Project
 
 ## Existing Independent Projects
