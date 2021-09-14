@@ -43,6 +43,8 @@ The following Visualisation individually maps out each country's debt as a % of 
 
 This interactive treemap gives annual comparisons of Debt/GDP Ratio and clearly highlights the countries that have the worst and best GDP ratio among the OECD. Japan consistently has a bad ratio and from the early 2000s onwards Greece's well documented economic crisis is visible in the map before it finally overtakes Japan in 2019 as the worst performer. The USA had it's worst position in 2011.
 
+<iframe src='https://flo.uri.sh/visualisation/7255965/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7255965/?utm_source=embed&utm_campaign=visualisation/7255965' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 The color scheme for this visual is Flourish's dark theme which doesn't attract too much attention towards particular elements. (In a treemap, multiple colors are hard to avoid but because they serve a prupose it would be not wise to reduce them)
 
 #### Comparison of Visuals
@@ -54,7 +56,6 @@ The treemap is a great option to compare and contrast countries side by side for
 The OECD is Organisation for Economic Cooperation and Development. The OECD maintains various statistical measures for each of it's member countries. The data for these visualisations is courtesy of the CSV File available on - [General Government Debt](https://data.oecd.org/gga/general-government-debt.htm)
 
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7255965"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Final Project
