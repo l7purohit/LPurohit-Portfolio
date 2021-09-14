@@ -30,7 +30,7 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 <iframe src="https://data.oecd.org/chart/6sEi" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sEi" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-##### Viz-2 through Flourish
+#### Viz-2 through Flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255521"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
