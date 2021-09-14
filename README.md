@@ -32,6 +32,9 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 #### Viz-2 through Flourish
 
+The following Visualisation individually maps out each country's debt as a % of their GDP. In the majority of cases the debt is increasing at faster pace than the GDP, whic is a worrying trend when put in terms with economic output measurement. Apart from a few exceptions, it can be observed that the most increase and high percentages are for developed countries like Japan, USA, Canada and Italy.
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255521"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Project
