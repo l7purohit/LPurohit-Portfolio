@@ -34,8 +34,28 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 The following Visualisation individually maps out each country's debt as a % of their GDP. In the majority of cases the debt is increasing at faster pace than the GDP, whic is a worrying trend when put in terms with economic output measurement. Apart from a few exceptions, it can be observed that the most increase and high percentages are for developed countries like Japan, USA, Canada and Italy.
 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/7255521"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+#### Viz-3
+
+### Debt to GDP Ratio for OECD Countries
+
+This interactive treemap gives annual comparisons of Debt/GDP Ratio and clearly highlights the countries that have the worst and best GDP ratio among the OECD. Japan consistently has a bad ratio and from the early 2000s onwards Greece's well documented economic crisis is visible in the map before it finally overtakes Japan in 2019 as the worst performer. The USA had it's worst position in 2011.
+
+The color scheme for this visual is Flourish's dark theme which doesn't attract too much attention towards particular elements. (In a treemap, multiple colors are hard to avoid but because they serve a prupose it would be not wise to reduce them)
+
+#### Comparison of Visuals
+
+The treemap is a great option to compare and contrast countries side by side for individual years. The grid chart provides a different insight allowing us to compare each country's perfomance in a vacuum over 25 years. Whereas the treemap stacks the countries against one another and is more sizable and intuitive than a bar chart. In a treemap the smallest elements are to the right and bottom, which is exacly how our eyes travel and the brain prioritises information. 
+
+##### Source Information
+
+The OECD is Organisation for Economic Cooperation and Development. The OECD maintains various statistical measures for each of it's member countries. The data for these visualisations is courtesy of the CSV File available on - [General Government Debt](https://data.oecd.org/gga/general-government-debt.htm)
+
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7255965"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ## Final Project
 
