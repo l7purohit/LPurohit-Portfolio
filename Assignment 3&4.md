@@ -1,14 +1,11 @@
 
-# Assigment 3&4
+# Assignment 3&4
 
-This assignmnent involved choosing a data visualisation that had its underlying dataset available and first critiquing it. After that, I was supposed to wireframe potential solutions that followed my critique suggestions and then test the effectiveness by demonstrating them to others. After taking feedback, I set out to build the solution. Here's my journey or I'd rather say thought process documented in text and visuals -
+This assignment involved choosing a data visualisation that had its underlying dataset available and first critiquing it. After that, I was supposed to wireframe potential solutions that followed my critique suggestions and then test the effectiveness by demonstrating them to others. The next step  was taking feedback after which I set out to build the solution. Here's my journey or I'd rather say thought process documented in text and visuals -
 
 ## The Original Visualisation
 
 I came across this visualisation on [Statista.com](https://www.statista.com/statistics/620805/smartphone-sales-market-share-in-the-us-by-vendor/)
-
-
-
 
 ## Critique Phase
 
@@ -60,19 +57,19 @@ After showing the wireframes to the first person, I realized I might have to sho
 
 ### 2nd Participant - Shampock (Heinz Student) - Art Background
 
-Can you tell me what you think these are?
+***Can you tell me what you think these are?***<br>
 	Yes, smartphone selling quantities. Are they all different visuals or one?
 
-- Can you describe to me what this is telling you?
+***Can you describe to me what this is telling you?***<br>
 	Yearly review of this data or quarterly breakdown.
 
-- Is there anything you find surprising or confusing?
+***Is there anything you find surprising or confusing?***<br>
 	In the phone thing, is that only one quarter or all quarters aggregated? Also, it isn't easy to read percentages in both the handwritten one and digital bar chart example.
 
-- Who do you think is the intended audience for this?
+***Who do you think is the intended audience for this?***<br>
 	Probably, these companies. Who else would be interested in so many bars and for so many instances?
 
-- Is there anything you would change or do differently?
+***Is there anything you would change or do differently?***<br>
 	The sketched one is occupying screen space weirdly; there seem to be uneven areas allocated to the bars.
 
 ### Reflection
@@ -89,7 +86,7 @@ The doughnut chart idea had to be eliminated because, while it may be informativ
 
 <iframe src="https://e.infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee?src=embed" title="Pictoral Chart" width="2222" height="1324" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 2162px"><a href="https://infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-<br> <br> <br>
+<br>
 
 <iframe src='https://flo.uri.sh/visualisation/7304848/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7304848/?utm_source=embed&utm_campaign=visualisation/7304848' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
