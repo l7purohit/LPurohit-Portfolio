@@ -22,7 +22,7 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## Assignment 1
 
-## Assignment 2
+## [Assignment 2](/DebtToGDP.md)
 
 ## [Assignment 3&4](/Smartphones.md)
 
