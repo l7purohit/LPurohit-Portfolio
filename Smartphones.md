@@ -50,10 +50,11 @@ Can you tell me what you think this is?
 
 After showing the wireframes to the first person, I realized I might have to show them the sketch and a digital wireframe to get opinions on multiple options. I went ahead and tried some things on Infogram - 
 
-![image](https://user-images.githubusercontent.com/83753036/134093948-a4d30692-6365-46ea-9d4c-6d6e39d99a1a.png)<br><br>
-![image2](https://user-images.githubusercontent.com/83753036/134093949-bf33a81b-5cb4-40fe-b811-682e63cb1430.png)
+| Wirefram 2 | Wireframe 3 |
+| --- | ----------- |
+| ![image](https://user-images.githubusercontent.com/83753036/134093948-a4d30692-6365-46ea-9d4c-6d6e39d99a1a.png) | ![image2](https://user-images.githubusercontent.com/83753036/134093949-bf33a81b-5cb4-40fe-b811-682e63cb1430.png) |
 
-
+<br>
 
 ### 2nd Participant - Shampock (Heinz Student) - Art Background
 
