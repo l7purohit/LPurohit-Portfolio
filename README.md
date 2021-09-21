@@ -22,7 +22,7 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## Assignment 1
 
-[## Assignment 3&4](https://github.com/l7purohit/LPurohit-Portfolio/blob/main/Assignment%203%264.md)
+## [Assignment 3&4](https://github.com/l7purohit/LPurohit-Portfolio/blob/main/Assignment%203%264.md)
 
 ## Assignment 2
 
