@@ -5,7 +5,10 @@ This assignment involved choosing a data visualisation that had its underlying d
 
 ## The Original Visualisation
 
-I came across this visualisation on [Statista.com](https://www.statista.com/statistics/620805/smartphone-sales-market-share-in-the-us-by-vendor/)
+I came across this visualisation on [Statista.com](https://www.statista.com/statistics/620805/smartphone-sales-market-share-in-the-us-by-vendor/)<br>
+
+<img width="720" alt="Screen Shot 2021-09-20 at 9 05 47 pm" src="https://user-images.githubusercontent.com/83753036/134097085-3c8806dd-d31f-4859-8837-ab644ca1881e.png">
+
 
 ## Critique Phase
 
@@ -32,19 +35,19 @@ When I finished my wireframe, I did not realize that a reader of this visual mig
 
 ### 1st Participant - Himanshu (Flatmate) - IT Background
 
-Can you tell me what you think this is?
+***Can you tell me what you think this is?***<br>
 	It looks like a market share chart.
 
-- Can you describe to me what this is telling you?
+***Can you describe to me what this is telling you?***<br>
 	Yes, it is a time series of these major companies' positions in the market. It is badly drawn, though.
 
-- Is there anything you find surprising or confusing?
+***Is there anything you find surprising or confusing?***<br>
 	Yes, the color size or bars do not accurately match up to the % written in them. Also, is that box supposed to be a phone? 
 
-- Who do you think is the intended audience for this?
+***Who do you think is the intended audience for this?***<br>
 	The company executives mentioned here or anyone else such as market researchers.
 
-- Is there anything you would change or do differently?
+***Is there anything you would change or do differently?***<br>
 	The phone aspect doesn't look so at first glance, and because it is handwritten, I have difficulty understanding the numbers.
 
 
