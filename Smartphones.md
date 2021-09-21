@@ -88,7 +88,7 @@ The doughnut chart idea had to be eliminated because, while it may be informativ
 
 <br>
 
-<iframe src="https://e.infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee?src=embed" title="Pictoral Chart" width="2222" height="1324" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 2162px"><a href="https://infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<iframe src="https://e.infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee?src=embed" title="Pictoral Chart" width="1258" height="750" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 2162px"><a href="https://infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 <br>
 
