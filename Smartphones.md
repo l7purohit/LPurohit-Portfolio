@@ -86,13 +86,17 @@ The doughnut chart idea had to be eliminated because, while it may be informativ
 
 ## The Solution
 
-I deaigned two different visualisations - one follows the theme of the original chart with a different pictogrpahic approach to make it immediately clear as to what the Viz is about.  and help
+I designed two different visualisations - one follows the theme of the original chart with a different pictographic approach to make it immediately clear as to what the Viz is about and help decision makers. I've tried to minimise labelling, excessive color and any unnecessary items. I believe the smartphone makes the viz more appealing in a business context as well. Infogram has limited options for non-paid users and hence I couldn't play with color palletes, though this scheme does not seem counter productive as well. The fonts have been subtly chosen to not seem obsolete in certain elements while also not drawing too much attention.
+
 
 <br>
 
 <iframe src="https://e.infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee?src=embed" title="Pictoral Chart" width="1258" height="750" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 2162px"><a href="https://infogram.com/e27d0554-bc7a-4f28-a3f0-22cfec220eee" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 <br>
+
+The second one is meant to engage users and build a timeline of the marketshare battle between these companies. It has minimal colors and axis labelling and is interactive as well, which should prompt the users to play around with it and hence attract casual viewers.
+
 
 <iframe src='https://flo.uri.sh/visualisation/7304848/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7304848/?utm_source=embed&utm_campaign=visualisation/7304848' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
