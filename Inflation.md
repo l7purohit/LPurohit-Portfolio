@@ -46,6 +46,8 @@ Here are a few sketches that will attempt to present the information required an
 Consumer Price Index, Effects on Income Groups that I will need to research and identofy key pointers further before making an attempt
 at visualising that data.
 
+![IMG_0162](https://user-images.githubusercontent.com/83753036/134958050-c7a09783-9607-4394-9a3b-05ddc6d252c2.jpg)
+
 ![IMG_0158](https://user-images.githubusercontent.com/83753036/134956052-db32dee4-3e5b-4122-8f15-87b713dfe04b.jpg)<br>
 ![IMG_0159](https://user-images.githubusercontent.com/83753036/134956065-c29d7751-8e11-42d0-b1ca-707b5c9ce37e.jpg)<br>
 ![IMG_0160](https://user-images.githubusercontent.com/83753036/134956069-9fc35fad-6a23-411f-9d01-e1060e1878e7.jpg)<br>
@@ -90,6 +92,13 @@ https://www.statista.com/statistics/1121448/fed-balance-sheet-timeline/ [11,13]
 
 ## Medium
 
+This story will need a lot of visuals that are not necessarily derived from datasets, text data to explain proceedings and also a few short videos. In order to best incorporate these different elements with Data Visuals, I would be using shorthand.
 
+From this stage onwards I will begin writing a script and part by part segregatiion of the whole story. From there, each part will try to have a text a non dataset
+visual and then finally a data visualisation. Once I attempt that stage while following up with a script, I'll be able to identify what is working - what is not, essential arcs - disposable arcs. This process will also help realise if the data visualisations are persuasive enough or not and corrobrate to the story arc.
 
+I intend to draw parallels with dynamic 'line race charts' for things like Economic Output vs Money Circulation; Bitcoin and Traditional Gold (why they are a hedge against Fiat Money etc.To show proportional increases - Area Line Chart, TreeMaps and Stacked Bar Chart for elements like the Fed Reserve Balance Sheet.To make the Shorthand project interesting - I plan to include the Nixon Press conference (short clip) and insert a visual that emphasises the vicious circular relationship between the treasury and the federal reserve.
+
+In the end, as part of the call to action - I will show the different taxation policies of politicians compared to the budget deficits and money printing to show
+why a poltician's refusal to increase taxes and rather increase debt to maintain popularity is harmful for countries and the world economy in the long run. Also Cryptocurrency might feature at this point to draw a parallel between it and gold (through data) and urge people to force politicians to make difficult choices such as revising the currency system such that it is backed by a tangible, scarce underlying asset.
 
