@@ -24,9 +24,9 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## [Assignment 2](/DebtToGDP.md)
 
-## [Assignment 3&4](/Smartphones.md)
+## [Assignment 3 & 4](/Smartphones.md)
 
-## [Project Part 1](/Inflation.md)
+## [Project Part 1](/Money_Systems.md)
 
 ## Final Project 
 
