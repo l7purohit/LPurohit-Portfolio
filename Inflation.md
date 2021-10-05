@@ -32,11 +32,18 @@ will now take readers on a journey to understand inflation
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/09jx2","geo":"US","time":"2019-01-01 2021-10-03"},{"keyword":"/m/02xmb","geo":"US","time":"2019-01-01 2021-10-03"}],"category":0,"property":""}, {"exploreQuery":"date=2019-01-01%202021-10-03&geo=US&q=%2Fm%2F09jx2,%2Fm%2F02xmb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-<br><br>
-<iframe src='https://flo.uri.sh/visualisation/7431569/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7431569/?utm_source=embed&utm_campaign=visualisation/7431569' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-<br><br>
 
-<img width="420" alt="Screenshot 2021-10-03 at 10 59 39 PM" src="https://user-images.githubusercontent.com/83753036/136069649-15d3dc52-476d-4a8d-b4d3-4561df86f6f0.png">
+<iframe src='https://flo.uri.sh/visualisation/7431569/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7431569/?utm_source=embed&utm_campaign=visualisation/7431569' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+<img width="417" alt="Screen Shot 2021-10-05 at 11 58 23 AM" src="https://user-images.githubusercontent.com/83753036/136072823-b7066738-2746-49c1-9a94-6aff67b6cc5b.png">
+
+
+![AwFJW-your-savings-are-not-safe](https://user-images.githubusercontent.com/83753036/136072790-e8a81f9a-40b9-4e81-a370-5726a044ce6e.png)
+
+
+
+
+
 
 
 ## User Research
