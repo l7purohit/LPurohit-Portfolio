@@ -3,11 +3,11 @@
 
 ## Refinements from Part-I
 
-The Part-I of the project was more or less tied down to Monetary Policies and actions of a Government that may lead to detrimental economic conditions. This engulfed a whole range
-of sub-topics that by themselves are worthy of detailed discussion. Frankly, this project would've required a 12 hour Economics Class to fully grasp the context and essence 
-of it. Now, I've refined it to focus on just 'Inflation' that is the ultimate consequence of all other economic actions (and those unreallistically long sub topics in Project Part-I).
+The Part-I of the project was more or less based on Monetary Policies and how actions of certain Institutions lead to detrimental economic conditions. This engulfed a whole range of sub-topics that by themselves are worthy of detailed discussion or become individual projects. Frankly, this would've required a 12 hour economics recap to grasp the context and essence of most aspects of the story. I noticed this problem when I tried to explain the project scope to classmates who were puzzled and felt this was all slightly overwhelming. 
 
-The Part-II of this project will now focus on Inflation with the following breakdown- <br>
+Which is why I've now refined the project to focus on just 'Inflation' that is the ultimate consequence of all other economic actions (and those unreallistically long sub topics in Project Part-I).
+
+The Part-II of will discuss Inflation in the following breakdown - <br>
 
 1. Background
 2. What is Inflation?
@@ -17,8 +17,7 @@ The Part-II of this project will now focus on Inflation with the following break
 6. How To Be Aware and Beat Inflation?
 <br>
 
-The structure described above is meant for a general purpose audience with varying backgrounds. Hence, instead of being laden with jargon and complex structures, the project
-will now take readers on a journey to understand inflation 
+The structure described above is meant for a general purpose audience with varying backgrounds. Hence, instead of being laden with jargon and complex structures, the project will now take readers on a journey to understand inflation and how they can overcoe=me it's adverse effects.
 
 ## Storyboard
 
