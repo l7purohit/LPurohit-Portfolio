@@ -9,7 +9,7 @@ This Lakshya Purohit's Telling Stories with Data / data visualisation portfolio.
 
 Hi! I'm Lakshya Purohit and my pronouns are he/him. I'm currently pursuing a Masters at Carnegie Mellon University and this portfolio was created to work on an interesting course called 'Telling Stories with Data'. The name and style of this class are peculiar but my other data analytical courses are plain, simple and as an outsider would say 'boring'. I am a tech enthusiast and I like reading about the applications of technology to real world problems. From Apple's unified ecosystem vision to ASML's monopoly in Semi Conductor Manufacturing , I like to learn it all!
 
-When I'm away from academics and professional duties, it's either football (Soccer in America) or travelling for me. Until now, I've lived, adapted and worked in 4 different countries on 4 different continents and travelled to 9 others, the experiences have broadened my horizons.
+When I'm away from academics and professional duties, it's either football (Soccer in America) or travelling for me. Until now, I've lived, adapted and worked in 4 different countries on 4 different continents and travelled to 9 others, the experiences have broadened my horizons and.
 
 
 # What I hope to Learn
