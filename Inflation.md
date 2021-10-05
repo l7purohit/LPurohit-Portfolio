@@ -28,9 +28,11 @@ The structure described above is meant for a general purpose audience with varyi
 
 
 ## Wireframes
+<br>
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/09jx2","geo":"US","time":"2019-01-01 2021-10-03"},{"keyword":"/m/02xmb","geo":"US","time":"2019-01-01 2021-10-03"}],"category":0,"property":""}, {"exploreQuery":"date=2019-01-01%202021-10-03&geo=US&q=%2Fm%2F09jx2,%2Fm%2F02xmb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
+<br>
 
 <iframe src='https://flo.uri.sh/visualisation/7431569/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7431569/?utm_source=embed&utm_campaign=visualisation/7431569' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
