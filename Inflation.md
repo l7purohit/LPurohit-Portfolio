@@ -31,7 +31,9 @@ The structure described above is meant for a general purpose audience with varyi
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/09jx2","geo":"US","time":"2019-01-01 2021-10-03"},{"keyword":"/m/02xmb","geo":"US","time":"2019-01-01 2021-10-03"}],"category":0,"property":""}, {"exploreQuery":"date=2019-01-01%202021-10-03&geo=US&q=%2Fm%2F09jx2,%2Fm%2F02xmb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/83753036/136089177-734ff3df-2044-4e99-8b79-81091fdc74a2.png">
+<p align="center">
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/83753036/136089538-03d38878-ed8c-4c6b-bd96-6c8fd29c937e.png">
+</p>
 
 <br><br>
 
