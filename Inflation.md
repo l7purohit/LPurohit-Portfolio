@@ -39,8 +39,7 @@ The structure described above is meant for a general purpose audience with varyi
 <img width="417" alt="Screen Shot 2021-10-05 at 11 58 23 AM" src="https://user-images.githubusercontent.com/83753036/136072823-b7066738-2746-49c1-9a94-6aff67b6cc5b.png">
 
 
-![AwFJW-your-savings-are-not-safe](https://user-images.githubusercontent.com/83753036/136072790-e8a81f9a-40b9-4e81-a370-5726a044ce6e.png)
-
+<iframe title="Your Savings are not Safe" aria-label="Grouped Column Chart" id="datawrapper-chart-AwFJW" src="https://datawrapper.dwcdn.net/AwFJW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
 
 
