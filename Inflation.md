@@ -28,23 +28,31 @@ The structure described above is meant for a general purpose audience with varyi
 
 
 ## Wireframes
-<br>
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/09jx2","geo":"US","time":"2019-01-01 2021-10-03"},{"keyword":"/m/02xmb","geo":"US","time":"2019-01-01 2021-10-03"}],"category":0,"property":""}, {"exploreQuery":"date=2019-01-01%202021-10-03&geo=US&q=%2Fm%2F09jx2,%2Fm%2F02xmb","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-<br>
+<br><br>
 
+<iframe src='https://flo.uri.sh/visualisation/7448485/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7448485/?utm_source=embed&utm_campaign=visualisation/7448485' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+<br><br>
 
 <p align="center">
 <img width="417" alt="Screen Shot 2021-10-05 at 11 58 23 AM" src="https://user-images.githubusercontent.com/83753036/136072823-b7066738-2746-49c1-9a94-6aff67b6cc5b.png">
 </p>
 
+<br><br>
+
 <p align="center">
 <img width="420" alt="Screenshot 2021-10-03 at 10 59 39 PM" src="https://user-images.githubusercontent.com/83753036/136076666-757c89ea-882b-4af8-b7d8-9175fb3aead1.png">
 </p>
 
+<br><br>
+
 <iframe title="Your Savings are not Safe" aria-label="Grouped Column Chart" id="datawrapper-chart-AwFJW" src="https://datawrapper.dwcdn.net/AwFJW/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="377"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
-<br>
+
+<br><br>
+ 
 <iframe src='https://flo.uri.sh/visualisation/7431569/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7431569/?utm_source=embed&utm_campaign=visualisation/7431569' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
