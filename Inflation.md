@@ -66,6 +66,18 @@ The structure described above is meant for a general purpose audience with varyi
 ## User Research
 
 ### Questions Asked
+  
+1.Do you have an economics ?
+2.What factors do you consider while investing in a particular stock/company?
+3.Would you consider yourself to be a risk-taker?
+
+  #### Case Specific Questions:
+
+1.Does the story give you any new insights and information that you weren't familiar with before ?
+2.Does this story compel you to think more about Inflation ?
+3.Will this story educate you about why inflation ?
+4.Is there anything specific you wish to have seen in this story?
+5.What would increase the impact of this story according to you?
 
 ### Findings
 
