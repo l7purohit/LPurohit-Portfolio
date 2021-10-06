@@ -91,13 +91,16 @@ The structure described above is meant for a general purpose audience with varyi
 
 ### Findings
 
-
+  <p> I've learn that my visuals need more titles and context to them and some such as the gold standard ones need more supporting arguments. Overall the users did
+    seem aware of some aspects of inflation but were not familiar with the statistics, causes and perpetrators of the same.</p>
+  
+  <p> For Part-III, I intend to make the visuals more verbose and add a wow factor type of viz through Raw.IO </p>
   
   
 ### [Detailed Interview Extracts](/Interview_Extracts.md)
 
 
-## Resources
+
 
 
 
