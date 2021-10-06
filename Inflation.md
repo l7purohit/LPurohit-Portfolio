@@ -78,8 +78,6 @@ The structure described above is meant for a general purpose audience with varyi
 2. How much do you know about Inflation in General and it's causes? <br>
 3. Would you consider it an important aspect of your life or something that could be troublesome enough for everyone to think about it?
 
-  <br>
-
 ### Questions asked AFTER the Storyboard and Wireframes are shown -
 
 1. Does the story give you new insights and information that you weren't familiar with before? <br>
