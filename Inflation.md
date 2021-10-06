@@ -94,7 +94,7 @@ The structure described above is meant for a general purpose audience with varyi
 
   
   
-### [Detailed Interview Extracts](/Inflation.md)
+### [Detailed Interview Extracts](/Interview_Extracts.md)
 
 
 ## Resources
