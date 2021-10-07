@@ -71,6 +71,9 @@ The structure described above is meant for a general purpose audience with varyi
 
 
 ## User Research
+  
+<p> As the direction and objective of the project have changed, it was necessary to find relevant interviewees. I chose a set of people that all had differenteducational backgrounds and roles. - An extreme user (Finance MBA), a professor (unavailable finally), a Chemistry background military person, and an undergraduate engineering student. The users were first asked basic questions to establish a background, then shown the Storyboard and Wireframes, and finally posed contextual/feedback questions.</p>,<br>
+
 
 ### Questions asked BEFORE the Storyboard and Wireframes are shown -
   
@@ -86,16 +89,17 @@ The structure described above is meant for a general purpose audience with varyi
 4. Were some aspects confusing or not as intuitive as you'd have liked them to be? <br>
 5. Could the charts and infographics have been presented in some other way to make the topic more coherent?<br>
   
-
-### Findings
-
-  <p> I've learn that my visuals need more titles and context to them and some such as the gold standard ones need more supporting arguments. Overall the users did
-    seem aware of some aspects of inflation but were not familiar with the statistics, causes and perpetrators of the same.</p>
-  
-  <p> For Part-III, I intend to make the visuals more verbose and add a wow factor type of viz through Raw.IO </p>
-  
-  
 ### [Detailed Interview Extracts](/Interview_Extracts.md)
+
+### Findings -
+
+<p>I have learned that people do know about Inflation up to a certain level. They may not be aware of the details w.r.t to causes, how it directly affects the general public and perpetrators. However, they do understand
+what it is at a basic level. Interestingly, while most of them knew, they did not care enough to think about it actively. They were surprised by the statistics and thought Inflation should be an essential factor while actively making investment decisions. </p>
+
+<p>  
+The visual feedback was enlightening, some of it was background specific, and I had never looked from those perspectives. However, the Google Search trend was consistently confusing for everyone. I have to make sure it is well described and titled. A user even pointed out that the 'Coffee Futures' chart had no unit, so it didn't help him understand how much coffee these prices reflected. Another consistent theme was the Gold Standard cartoon; though most of them knew what it meant, they still felt it had to be more verbose and descriptive. Most people liked the 'Printing Money' pie chart because it was new to them, but an extreme user also mildly criticized it. Finally, the hand-drawn money supply chart seems obscure as no one even mentioned it. I should find a way to make it more visible and attention-seeking</p>
+
+<p>Overall I feel that the project has achieved its goal of being a simple version of Part-I, and now I need to maybe add some 'Wow' factors to it.</p>
 
 
 
