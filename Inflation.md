@@ -65,14 +65,9 @@ The structure described above is meant for a general purpose audience with varyi
 <br><br>
 <iframe src='https://flo.uri.sh/visualisation/7431569/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/7431569/?utm_source=embed&utm_campaign=visualisation/7431569' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-
-<br>
-
-
-
 ## User Research
   
-<p> As the direction and objective of the project have changed, it was necessary to find relevant interviewees. I chose a set of people that all had differenteducational backgrounds and roles. - An extreme user (Finance MBA), a professor (unavailable finally), a Chemistry background military person, and an undergraduate engineering student. The users were first asked basic questions to establish a background, then shown the Storyboard and Wireframes, and finally posed contextual/feedback questions.</p>,<br>
+<p> As the direction and objective of the project have changed, it was necessary to find relevant interviewees. I chose a set of people that all had differenteducational backgrounds and roles. - An extreme user (Finance MBA), a professor (unavailable finally), a Chemistry background military person, and an undergraduate engineering student. The users were first asked basic questions to establish a background, then shown the Storyboard and Wireframes, and finally posed contextual/feedback questions.</p>
 
 
 ### Questions asked BEFORE the Storyboard and Wireframes are shown -
