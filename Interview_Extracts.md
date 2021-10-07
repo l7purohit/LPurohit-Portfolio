@@ -1,8 +1,7 @@
 
 ## Interview Scripts
 
-### The following is a compilation of the interview interactions conducted for Part-II of the project. The interviewees had different approaches to answers and
-### also varying backgrounds.
+### The following is a compilation of the interview interactions conducted for Part-II of the project. The interviewees had different approaches to answers and also varying backgrounds.
 
 
 ## Timothy Naudet - Chemistry Major at WestPoint Military Academy
