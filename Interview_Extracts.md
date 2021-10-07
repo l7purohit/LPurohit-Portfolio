@@ -120,7 +120,7 @@ thoughts.<br>
 
 <br><br>
 
-## Shambhavi Upadhyay - Undergrad in Fine Arts / MISM at Heinz College
+## Shambhavi Upadhyaya - Undergrad in Fine Arts / MISM at Heinz College
 
 #### Didn't turn up for the interview due to other plans.<br>
 
