@@ -27,6 +27,9 @@ Even if this project did not make me a data viz expert, the least I would have l
 
 ## [Inflation – The Hidden Tax, Final Shorthand Story](https://carnegiemellon.shorthandstories.com/inflation/index.html)
 
+## Link to [Project Part I](/Money_Systems.md)
+## Link to [Project Part II](/Inflation.md)
+
 <br>
 
 # [Portfolio Main Page](/)
