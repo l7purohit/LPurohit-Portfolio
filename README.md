@@ -1,7 +1,6 @@
 # LPurohit-Portfolio
 This Lakshya Purohit's Telling Stories with Data / data visualisation portfolio.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7205615"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # About Me
 <img src="https://user-images.githubusercontent.com/83753036/132281418-03694812-0a92-4a49-b9a9-708b756d76d8.jpg" width="200" height="250"> <br>
@@ -20,7 +19,17 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 # Portfolio
 
+## Cool Visualisation
+
+### Comparing Positive Case v/s Cumulative Cases
+
+#### Conveying the Message through the Right Chart and Use of Proper Colors
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205615"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Assignment 1
+
+This assignment consisted of setting up this portfolio for the first time, make some sketches and explore some visualisations done in class. I'll be adding them up here soon!
 
 ## [Assignment 2](/DebtToGDP.md)
 
@@ -34,7 +43,9 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## [Final Project-Shorthand Story](https://carnegiemellon.shorthandstories.com/inflation/index.html)
 
-## Existing Independent Projects
+## Existing Independent Projects 
+
+Coming soon.
 
 
 
