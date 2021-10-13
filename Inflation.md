@@ -98,8 +98,10 @@ The visual feedback was enlightening, some of it was background specific, and I 
 
 
 
-
-
-
-
+## Link to [Project Part I](/Money_Systems.md)
+  
+## Link to [Project Part III](/Project_Part-III.md)
+  
+# [Portfolio Main Page](/)
+  
 
