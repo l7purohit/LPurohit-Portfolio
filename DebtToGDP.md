@@ -1,4 +1,4 @@
-# Debt as % of GDP
+# Assignment 2 - Debt as % of GDP
 
 ## Viz-1 through the OECD Website
 
