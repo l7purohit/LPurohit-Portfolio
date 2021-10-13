@@ -25,6 +25,6 @@ Overall, I believe, this project has taught me that visualization has a lot of n
 Even if this project did not make me a data viz expert, the least I would have learnt is to identify what elements makes a good visualization, what are the components of a coherent story and what not to do in a data visualization! 
 
 
-## [Inflation – The Hidden Tax, Final Shorthand Story]('https://carnegiemellon.shorthandstories.com/inflation/index.html')
+## [Inflation – The Hidden Tax, Final Shorthand Story](https://carnegiemellon.shorthandstories.com/inflation/index.html)
 
    
