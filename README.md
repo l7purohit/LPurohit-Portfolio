@@ -30,7 +30,9 @@ insight generation power to excel in any sector, be it Mining, FMCG or Hospitali
 
 ## [Project Part II](/Inflation.md)
 
-## Final Project 
+## [Project Part III](/Project_Part-III.md)
+
+## [Final Project-Shorthand Story]('https://carnegiemellon.shorthandstories.com/inflation/index.html')
 
 ## Existing Independent Projects
 
