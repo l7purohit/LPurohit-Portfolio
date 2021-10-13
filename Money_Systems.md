@@ -101,3 +101,9 @@ I intend to draw parallels with dynamic 'line race charts' for things like Econo
 In the end, as part of the call to action - I will show the different taxation policies of politicians compared to the budget deficits and money printing to show
 why a politician's refusal to increase taxes and instead increase debt to maintain popularity is harmful to countries and the world economy in the long run. Also, Cryptocurrency might feature at this point to draw a parallel between it and gold (through data) and urge people to force politicians to make difficult choices such as revising the currency system to be backed by a tangible, scarce underlying asset.
 
+
+## Link to [Project Part II](/Inflation.md)
+## Link to [Project Part III](/Project_Part-III)
+
+# [Portfolio Main Page](/)
+
