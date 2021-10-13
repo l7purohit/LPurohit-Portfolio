@@ -102,6 +102,6 @@ The visual feedback was enlightening, some of it was background specific, and I 
   
 ## Link to [Project Part III](/Project_Part-III.md)
   
-# [Portfolio Main Page](/)
+# [Portfolio Main Page](/LPurohit-Portfolio)
   
 
