@@ -32,6 +32,6 @@ Even if this project did not make me a data viz expert, the least I would have l
 
 <br>
 
-# [Portfolio Main Page](/LPurohit-Portfolio.md)
+# [Portfolio Main Page](/LPurohit-Portfolio)
 
    
