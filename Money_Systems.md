@@ -69,23 +69,23 @@ and why it is bad, with componential breakdowns. Also, Measuring Worth's GDP dat
 series and depict how the two that are meant to be shadowing each other are no longer in sync.
 
 
-https://fred.stlouisfed.org/series/CURRCIR [4]
+[Currency Circulation](https://fred.stlouisfed.org/series/CURRCIR)
 <br>
-https://www.thebalance.com/is-the-federal-reserve-printing-money-3305842 [4]
+[Is the Federal Reserve Printing Money](https://www.thebalance.com/is-the-federal-reserve-printing-money-3305842) 
 <br>
-https://data.oecd.org/price/inflation-cpi.htm [5]
+[Inflation-CPI](https://data.oecd.org/price/inflation-cpi.htm) 
 <br>
-https://www.measuringworth.com/datasets/interestrates/result.php [7]
+[Measuring Worth Datasets](https://www.measuringworth.com/datasets/interestrates/result.php) 
 <br>
-https://www.measuringworth.com/datasets/gold/result.php [3]
+[Gold Datasets](https://www.measuringworth.com/datasets/gold/result.php)
 <br>
-https://www.measuringworth.com/datasets/uscpi/result.php 
+[USCPI Datasets](https://www.measuringworth.com/datasets/uscpi/result.php)
 <br>
-https://www.measuringworth.com/datasets/usgdp/result.php [17]
+[USGDP Datasets](https://www.measuringworth.com/datasets/usgdp/result.php) 
 <br>
-https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/ [5,6]
+[Value of US Dollar Since 1640](https://www.statista.com/statistics/1032048/value-us-dollar-since-1640/) 
 <br>
-https://www.statista.com/statistics/1121448/fed-balance-sheet-timeline/ [11,13]
+[Fed Balance Sheet Timeline](https://www.statista.com/statistics/1121448/fed-balance-sheet-timeline/) 
 
 
 
