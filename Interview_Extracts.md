@@ -4,7 +4,7 @@
 ### The following is a compilation of the interview interactions conducted for Part-II of the project. The interviewees had different approaches to answers and also varying backgrounds.
 
 
-## Timothy Naudet - Chemistry Major at WestPoint Military Academy
+## Chemistry Major at WestPoint Military Academy
 
 ### Questions asked BEFORE the Storyboard and Wireframes are shown -
 
@@ -45,7 +45,7 @@ Sort of.
 
 <br><br>
 
-## Vaishali Shukla -  Undergrad in Electronics and Communication Engineering
+## Undergrad Student in Electronics and Communication Engineering
 
 ### Questions asked BEFORE the Storyboard and Wireframes are shown -
 
@@ -82,7 +82,7 @@ whereas it is a Google Search Trend) Also your hand drawn graph on the story pag
 
 <br><br>
 
-## Cameron T. - Investment Banker/Final Year MBA Student at Tepper School of Business
+## Investment Banker/Final Year MBA Student at Tepper School of Business
 
 ### Questions asked BEFORE the Storyboard and Wireframes are shown -<br>
 
