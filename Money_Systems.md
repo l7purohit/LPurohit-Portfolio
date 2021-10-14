@@ -105,5 +105,5 @@ why a politician's refusal to increase taxes and instead increase debt to mainta
 ## Link to [Project Part II](/Inflation.md)
 ## Link to [Project Part III](/Project_Part-III.md)
 
-# [Portfolio Main Page](/)
+# [Portfolio Main Page](/LPurohit-Portfolio)
 
